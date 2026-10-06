@@ -169,7 +169,6 @@ My personal cybersecurity portfolio showcasing experience, certifications, compe
 |---|---|
 | Association for Computing Machinery (ACM) | Treasurer / Executive Officer |
 | Server Team | Vice Captain |
-| Girls Who Code | Vice President |
 | Indian Cultural Exchange (ICX) | Executive Board — Event Coordinator |
 | Augusta University Hackathon | Judging & Awards Coordinator |
 
